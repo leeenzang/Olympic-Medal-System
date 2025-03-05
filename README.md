@@ -12,6 +12,3 @@
    - 종목별 메달 순위
    - 총합 메달 순위
    - 대륙별 메달 순위
-
-## 설명 동영상
-  [설명 동영상 보러 가기](https://drive.google.com/file/d/19Ir2VP5z3PsLt-Xr5m0x4cRgfF_58V8i/view?usp=sharing)
